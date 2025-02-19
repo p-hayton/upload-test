@@ -1,0 +1,6 @@
+#!/usr/bin/octave
+
+str = input('', 's'); 
+fprintf(str); 
+exit; 
+

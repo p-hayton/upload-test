@@ -1,0 +1,10 @@
+#!/usr/bin/bash
+
+read -p 'Name: ' username
+read -p 'Visit number: ' visitnum
+
+dir=$(dirname $0)
+
+$dir/python_test $username $visitnum
+
+
