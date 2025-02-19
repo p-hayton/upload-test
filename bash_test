@@ -8,4 +8,5 @@ dir=$(dirname $0)
 
 $dir/python_test $username $visitnum
 
+# comment for git update test
 
