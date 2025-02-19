@@ -1,4 +1,5 @@
 #!/usr/bin/bash
+# a BASH user input test
 
 read -p 'Name: ' username
 read -p 'Visit number: ' visitnum
